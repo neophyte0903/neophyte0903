@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neophyte0903
 - 👀 I’m interested in ...guitar coding and content creation
-- 🌱 I’m currently learning ...python 3 
+- 🌱 I’m currently learning ...python 3, cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... on instgram @neophyte_0903
 
